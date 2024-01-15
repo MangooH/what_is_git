@@ -6,7 +6,7 @@ get_choice = lambda: [choice(range(1, 45 + 1)) for _ in range(6)]
 foods = [
     "banana",
     "grape",
-    "apple",
+    "pineapple",
 ]
 
 if __name__ == "__main__":
