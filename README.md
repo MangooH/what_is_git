@@ -15,7 +15,7 @@ $ python hello.py
 
 ## Create git ignore
 
-[link text](https://www.toptal.com/developers/gitignore)
+[create gitignore simply](https://www.toptal.com/developers/gitignore)
 ![Alt text](image.png)
 
 ## Markdown
