@@ -1,6 +1,6 @@
-from random import sample
+from random import randint
 
-get_luckies = lambda: sample(range(1, 45 + 1), k=6)
+get_luckies = lambda: [randint(1, 45) for _ in range(6)]
 
 if __name__ == "__main__":
     print(get_luckies())
