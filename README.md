@@ -13,7 +13,22 @@ $ cd {repo name}
 $ python hello.py
 ```
 
+## Markdown
+
+- 'i' :  normal mode -> insert mode
+- And write code
 ```python
 def say_hello():
 	return 'hello'
 ```
+- 'esc' : insert mode -> normal mode
+- ':wq' : command line mode - write & quit
+
+## from local to remote repository
+
+- git add hello.py
+- git commit
+```
+feat: Create python function say 'hello'
+```
+- git push origin main
