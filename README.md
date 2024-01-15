@@ -13,6 +13,11 @@ $ cd {repo name}
 $ python hello.py
 ```
 
+## Create git ignore
+
+[link text](https://www.toptal.com/developers/gitignore)
+![Alt text](image.png)
+
 ## Markdown
 
 - 'i' :  normal mode -> insert mode
